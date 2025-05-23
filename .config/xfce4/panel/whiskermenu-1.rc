@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,org.gnome.Software.desktop,xfce4-terminal-emulator.desktop,xfhelp4.desktop
-recent=xfce4-web-browser.desktop,xfce4-terminal-emulator.desktop,xfce-settings-manager.desktop
+recent=xfce4-terminal-emulator.desktop,xfce4-web-browser.desktop,xfce-settings-manager.desktop
 button-icon=xubuntu-logo-menu
 button-single-row=false
 show-button-title=false
