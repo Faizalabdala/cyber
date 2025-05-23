@@ -1,0 +1,6 @@
+DEBUG      libindicator-plugin       Looking at Module: libayatana-application.so
+DEBUG      libindicator-plugin       Loading Module: libayatana-application.so
+DEBUG      libindicator-plugin       Load indicator: libayatana-application.so
+WARNING    libindicator-plugin       Error opening directory “/usr/share/ayatana/indicators”: No such file or directory
+DEBUG      Ayatana-Indicator-Application Connected to Application Indicator Service.
+DEBUG      Ayatana-Indicator-Application Request current apps

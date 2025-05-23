@@ -1,0 +1,7 @@
+{"timestamp":1014904,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment","glean_timestamp":"1748025557662","experiment_type":"rollout","experiment":"upgrade-spotlight-rollout"}}
+{"timestamp":1014954,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1748025557712","branch":"control","experiment":"encrypted-client-hello-fallback-mechanism","experiment_type":"rollout"}}
+{"timestamp":1014990,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"fpp-floating-point-protection-rollout-linux-only","glean_timestamp":"1748025557747","branch":"control","experiment_type":"rollout"}}
+{"timestamp":1015022,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1748025557779","branch":"control","experiment":"fx-accounts-ping-release-rollout-2","experiment_type":"rollout"}}
+{"timestamp":1015049,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1748025557806","experiment_type":"rollout","branch":"control","experiment":"disable-ads-startup-cache"}}
+{"timestamp":1015128,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","branch":"delivery","glean_timestamp":"1748025557885","experiment":"long-term-holdback-2025h1-growth-desktop"}}
+{"timestamp":1015399,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1748025558156","feature":"addAnImageInPDF","experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature"}}
